@@ -764,6 +764,7 @@ public class CalculadoraPractica1 {
                 matriz[i][j]+=matriz[jj][j]*k;
             }
         }
+        
 
 
     }
